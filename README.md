@@ -23,15 +23,6 @@ THEN I am taken to the corresponding section of the README
 
 Screenshots
 
-Below is an image depicting the initialization of inquirer and the prompted questions to be displayed.
-![inquirer](https://user-images.githubusercontent.com/107973681/189184008-f41ad249-8518-4e77-ba73-7c91cf48c127.png)
-
-Below is an image depicting the formatting of the README once user inputs data.
-![Markdown](https://user-images.githubusercontent.com/107973681/189184127-ba150742-ee90-40e2-9ef7-2d65bc850cbb.png)
-
-Below is an image that shows what the user will view when they run "node index.js" in the command line of Gitbash.
-![questions](https://user-images.githubusercontent.com/107973681/189184195-926efd7c-5222-481d-8830-f9714b10cafa.png)
-
 
 GitHub Link: https://github.com/SalmanDanesh93/
 Tutorial Video: https://drive.google.com/file/d/1GJ4hWWa025j5HesydKUlxieputXIb6OZ/view
